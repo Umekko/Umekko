@@ -1,6 +1,6 @@
 <b> Chyngyz Mirzamatov </b>
 -------------------------------------
-Chicago, IL | +1 312-505-7609 | mirzamatov.ch@gmail.com |  [Kaggle](https://www.kaggle.com/umekko)  | [LinkedIN](https://www.linkedin.com/in/umeko)
+Chicago, IL | +1 312-505-7609 | mirzamatov.ch@gmail.com |  [Kaggle](https://www.kaggle.com/umekko/code)  | [LinkedIN](https://www.linkedin.com/in/umeko)
 
 --------------------------------------
 
