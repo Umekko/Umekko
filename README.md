@@ -17,14 +17,14 @@ Results-oriented Data Scientist with 1+ years of experience in predictive modeli
 ### Professional Experience
 
 
-SENATOROVAI Co., USA
+@SENATOROVAI Co., USA
 
 **Data Scientist**
 
 10/2023 - Present
   * Developed and deployed machine learning models for classification and regression tasks using TensorFlow and PyTorch.
     
-SENATOROVAI Co., USA
+@SENATOROVAI Co., USA
 
 **Data Analyst**
 
