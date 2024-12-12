@@ -40,5 +40,5 @@ Results-oriented Data Scientist with 1+ years of experience in predictive modeli
 ### Skills: 
 * **Programming**: Python, SQL, Fast-Api, Flask, Django rest framework
 * **Machine Learning:**  Pytorch, TensorFlow, Skikit-learn, Keras
-* **Data Analysis & Visualization:** Pandas, NumPy, SciPy, SimPy, Seaborn, Matplotlib, BI tools
+* **Data Analysis & Visualization:** Pandas, NumPy, SciPy, SymPy, Seaborn, Matplotlib, BI tools
   
